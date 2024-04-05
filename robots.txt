@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: https://SamRough.github.io/blog/sitemap.xml
+Sitemap: https://SamRough.github.io/sitemap.xml
