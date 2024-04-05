@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: https://<SamRough>.github.io/sitemap.xml
+Sitemap: http://localhost:51886/sitemap.xml
