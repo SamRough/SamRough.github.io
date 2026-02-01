@@ -2,22 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://SamRough.github.io/blog/</loc>
     <lastmod>2024-04-05T12:20:55+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://SamRough.github.io/</loc>
     <lastmod>2024-04-05T12:20:55+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/why-i-start-this-blog/</loc>
+    <loc>https://SamRough.github.io/why-i-start-this-blog/</loc>
     <lastmod>2024-04-05T12:20:55+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/markdown/</loc>
+    <loc>https://SamRough.github.io/blog/markdown/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/markdown-syntax-guide/</loc>
+    <loc>https://SamRough.github.io/markdown-syntax-guide/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/syntax/</loc>
+    <loc>https://SamRough.github.io/blog/syntax/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://SamRough.github.io/</loc>
   </url>
 </urlset>
